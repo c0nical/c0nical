@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет! 👋 меня зовут conical!
 
-<!--
-**c0nical/c0nical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Я — веб-разработчик, специализирующийся на **React**, **PHP** и **MySQL**.  
+💻 Работаю над созданием сайтов и веб-приложений.  
+🚀 Сейчас развиваю проект **WIBE** — музыкальный стриминговый сервис.
 
-Here are some ideas to get you started:
+## 🔧 Технологии и инструменты:
+- 🌐 HTML, CSS, JavaScript
+- ⚛️ React, TailwindCSS
+- 🐘 PHP, MySQL, Firebase
+- 🛠️ Vite, json-server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Связаться со мной:
+- Email: sflapz@gmail.com
+- Telegram: [@s1td1kaw](https://t.me/s1td1kaw)
+
+- ![Visitors](https://komarev.com/ghpvc/?username=c0nical&color=blue&style=flat-square)
