@@ -13,5 +13,3 @@
 ## 📫 Связаться со мной:
 - Email: sflapz@gmail.com
 - Telegram: [@s1td1kaw](https://t.me/s1td1kaw)
-
-![Visitors](https://komarev.com/ghpvc/?username=c0nical&color=blue&style=flat-square)
